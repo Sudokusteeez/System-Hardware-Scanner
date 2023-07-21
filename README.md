@@ -45,7 +45,5 @@ Contributions to this project are welcome. If you find any issues or have sugges
 License
 This project is licensed under the MIT License.
 
-Author
-GitHub: Sudokusteeez
-LinkedIn: LinkedIn Profile
+
 Get valuable insights into your system's hardware and software configuration with the System Information Scanner!
