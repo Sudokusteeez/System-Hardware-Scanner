@@ -6,7 +6,8 @@ The System Information Scanner is a Python-based project designed to gather esse
 # Languages & Programs Used:
 Python
 Visual Studio Code
-Purpose
+
+# Purpose
 The primary goal of this project is to create a user-friendly system information scanner that can quickly provide essential details about the system. This tool serves as a valuable resource for understanding the system's hardware and software configuration and can be used for system diagnostics and troubleshooting.
 
 # Key Features:
