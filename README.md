@@ -4,7 +4,7 @@
 The System Information Scanner is a Python-based project designed to gather essential system information, such as architecture, network name, operating system details, CPU specifications, and RAM capacity. It provides a quick and convenient way to access and display vital system-related data.
 
 # Languages & Programs Used:
-Python
+Python &
 Visual Studio Code
 
 # Purpose
